@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sahil Kumar  — he/him
+# 👋 Hi, I’m [Sahil Kumar](https://github.com/hunnyBunny14) — he/him
 
 🎓 B.Tech in CSE (AI & ML) | Batch 2024–2028  
 📍 Graphic Era Deemed to be University, Dehradun
@@ -57,4 +57,4 @@ I can debug your code **and** motivate you to hit the gym 🏋️‍♂️ — t
 
 ---
 
-> 🧠 “Stay consistent. Stay curious. Stay unstoppable.”  
+> 🧠 “Stay consistent. Stay curious. Stay unstoppable.”
