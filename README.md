@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sahil Kumar (aka hunnyBunny14) — he/him
+# 👋 Hi, I’m Sahil Kumar  — he/him
 
 🎓 B.Tech in CSE (AI & ML) | Batch 2024–2028  
 📍 Graphic Era Deemed to be University, Dehradun
